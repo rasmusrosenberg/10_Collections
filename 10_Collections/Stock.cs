@@ -22,7 +22,7 @@ namespace _10_Collections
         public String Symbol;
         public double PricePerShare;
         public int    NumShares;
-        public int Id = 0;
+        public int    Id = 0;
 
         public Stock() { }
 
